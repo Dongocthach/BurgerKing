@@ -1,0 +1,47 @@
+body {
+
+    color: red;
+}
+.row {
+    text-align: center;
+    padding-top: -15px;
+    line-height: 6px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.row2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: papayawhip;
+
+}
+.p-one{
+    background-color: whitesmoke;
+    width:auto;
+    border: 3px solid orange;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 20px;
+   
+}
+
+
+
+
+button {
+    margin-top: -10px;
+    margin-bottom: 30px;
+    width:  270px;
+    height: 47px;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button:hover{
+    background-color:orange;
+}
